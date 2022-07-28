@@ -1,4 +1,4 @@
-// This Program displays the cube of the number upto given  integer. 
+// This Program displays the cube of the number upto given  integer written by Arham Naik. 
 
 
 import java.util.Scanner;
