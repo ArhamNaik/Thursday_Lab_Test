@@ -1,4 +1,4 @@
-//This program shows the pattern like right angle triangle with a number. 
+//This program shows the pattern like right angle triangle with a number written by Arham Naik. 
 
 
 import java.util.Scanner;
