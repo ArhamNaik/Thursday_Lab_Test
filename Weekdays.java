@@ -1,4 +1,4 @@
-//This Program that takes a number from the user and generates an integer between 1 and 7 and displays the name of the weekday.
+//This Program that takes a number from the user and generates an integer between 1 and 7 and displays the name of the weekday written by Arham Naik.
 
 
 import java.util.Scanner;
